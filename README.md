@@ -1,8 +1,8 @@
 ### Hello :, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> 
 
 <h1 align="center">Hii <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm SHIVAM</h1>
-<h3 align="center">A frontend developer from India:,</h3>
-
+<h3 align="center">🧁I Learn Mern stack Developent ..</h3>
+🍭🍭
 <img align="right" width="400" height="300" src="https://24.media.tumblr.com/dd4509f78fc468b95625f993f657886e/tumblr_mkr3tnjoCj1rwys80o1_400.gif">
 
 ##### - 🌱 I’m currently learning **React js,**
