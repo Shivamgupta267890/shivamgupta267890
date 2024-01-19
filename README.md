@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm SHIVAM</h1>
+<h1 align="center">Hii 👋, I'm SHIVAM</h1>
 <h3 align="center">A frontend developer from India:,</h3>
 
 <img align="right" width="400" height="300" src="https://24.media.tumblr.com/dd4509f78fc468b95625f993f657886e/tumblr_mkr3tnjoCj1rwys80o1_400.gif">
